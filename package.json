@@ -1,0 +1,16 @@
+{
+	"name": "myapp",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"start": "vite"
+	},
+	"peerDependencies": {
+		"svelte": "^5.0.0"
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^5.1.0",
+		"svelte": "^5.35.4",
+		"vite": "^6.3.5"
+	}
+}
